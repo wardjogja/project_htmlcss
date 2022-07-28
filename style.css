@@ -55,3 +55,51 @@ body {
      width: 50%;
      url:img()
  }
+
+ .partner{
+    height: 250px;
+    padding-bottom: 20px;
+    background-color: #f7f7f7;
+    text-align: center;
+ }
+
+ .heading{
+    padding-top: 40px;
+    padding-bottom: 30px;
+    color: #251D3A;
+    font-weight: bolder;
+ }
+
+.partner-list {
+    grid-template-columns: repeat(5, 1fr);
+    max-height: 806px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.partner-list {
+    display: grid;
+    grid-gap: 20px;
+    margin: 0 auto;
+}
+
+.profile{
+    height: 200px;
+    padding-bottom: 20px;
+    background-color: #ffffff;
+    text-align: center;
+ }
+
+ .heading-profile{
+    padding: 20px 40px;
+    color: #251D3A;
+    font-weight: bold;
+    font-size: 32px;
+ }
+
+ .txt-contents {
+    width: 40%;
+    display: inline-block;
+    font-size: 15px;
+    color: #251D3A;
+  }
