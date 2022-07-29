@@ -71,7 +71,7 @@
         </div>
         <div class="profile">
             <div class=""container>
-                <div class="heading-profile">Why Growth Assurance</div>
+                <div class="heading-profile">Why Growth Assurance ?</div>
                 <div class="txt-contents">
                     <p>We help business achieve a Positive return on marketing investment with top quality service for as little as $300 per month. Begin your risk-free trial today with your first month free!</p>
                 </div>
