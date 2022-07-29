@@ -93,6 +93,7 @@ body {
 
 }
  .main-left-header-right{
+
      float: left;
      display: block;
      padding-top:100px;
@@ -119,6 +120,7 @@ body {
   .btn:hover{
       opacity: 1;
   }
+
 
  .partner{
     height: 250px;
