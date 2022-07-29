@@ -167,7 +167,10 @@ body {
 }
 
 .partner-list img:hover{
-    background-color: #1363DF;
+    color: #f0f1f3;
+    padding: 6px 6px;
+    border-radius: 10px;
+    box-shadow: 0 8px 12px 0 rgba(89, 30, 252, 0.2)
 }
 
 .profile {
