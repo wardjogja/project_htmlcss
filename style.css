@@ -12,8 +12,8 @@ body {
     width: 100%;
 }
 
-.main-left-top {
-    height: 50px;
+.main-left-top{
+    height:50px;
 }
 
 .main-left-top ul li {
@@ -120,10 +120,12 @@ body {
 
 .partner {
     height: 250px;
+    margin-left: 30px;
     padding-bottom: 20px;
     background-color: #f7f7f7;
     text-align: center;
 }
+
 
 .heading {
     padding-top: 40px;
